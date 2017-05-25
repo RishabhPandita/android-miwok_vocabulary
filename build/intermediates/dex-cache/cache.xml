@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rishabh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_42b64ac1a91783154add804bee4842515042c623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_2a75dfe8a18ebe88a44bc85e13b5a3401ccb1cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_80be38f2c9f4aee8a8c2795c32049a2ec4a4abe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="078e34a088085902aaff1ba9d6a366d11e5b0b90">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7d716e65873a53e344a6b5e907a5437d62595e85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_81e7419e3047abcf41ae3c0cc8390793ac6e8337\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_ceacbb42a109a790af5a39f62bb8d1584f5b5c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="faf36314695596c5f35cb6fb5f6c2e635592255e">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1f0758a8ccf88de44e4cc2ce1542825f3baee4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_f073049c00cac01e59a20cf53c65be60bdebfc48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_6c5f27e69747ecce4b2305d40f40c926adedb832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\ILoveMarshMallow-master\miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_d30d38bc5ff04d8a85472ad1bb4520a7f611f251\classes.dex" />
+    </item>
+
+</items>
